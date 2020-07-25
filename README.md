@@ -9,4 +9,8 @@ This script requires Kivy to run. Kivy is a python library for developing mobile
 pip install kivy
 ```
 
+## Demo
 
+Here's a demonstration of the running code 
+
+![Pong demo](demo/demo.gif)
