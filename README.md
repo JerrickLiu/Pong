@@ -13,4 +13,5 @@ pip install kivy
 
 Here's a demonstration of the running code 
 
-![Pong demo](demo/demo.gif)
+<img src="demo/demo.gif" alt="drawing" width="350" height="300" />
+
